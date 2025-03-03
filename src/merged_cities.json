@@ -1,0 +1,536 @@
+[
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "İstanbul",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ METRİS 1 NOLU T TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "İSTANBUL ATAŞEHİR AĞIZ VE DİŞ SAĞLIĞI HASTANESİ",
+      "İSTANBUL AVCILAR AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "İSTANBUL BAĞCILAR AĞIZ VE DİŞ SAĞLIĞI HASTANESİ",
+      "İSTANBUL BAHÇELİEVLER AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "İSTANBUL BÜYÜKÇEKMECE AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "İSTANBUL ÇEKMEKÖY AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "İSTANBUL DERVİŞ ALİ-HESNA CEYLAN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "İSTANBUL EYÜPSULTAN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "İSTANBUL GÖZTEPE AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "İSTANBUL GÜNGÖREN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "İSTANBUL KANUNİ SULTAN SÜLEYMAN EĞİTİM VE ARAŞTIRMA HASTANESİ",
+      "İSTANBUL KARTAL AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "İSTANBUL KÜÇÜKÇEKMECE AĞIZ VE DİŞ SAĞLIĞI HASTANESİ",
+      "İSTANBUL OKMEYDANI AĞIZ VE DİŞ SAĞLIĞI HASTANESİ",
+      "İSTANBUL SANCAKTEPE AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "İSTANBUL SARIYER AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "İSTANBUL SULTANGAZİ AĞIZ VE DİŞ SAĞLIĞI HASTANESİ",
+      "İSTANBUL TOPÇULAR AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 40,
+    "DistanceToIstanbul": 0.00016539695380775318
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Gaziantep",
+    "Hospitals": [
+      "GAZİANTEP ABDULKADİR YÜKSEL DEVLET HASTANESİ",
+      "GAZİANTEP ARABAN İLÇE DEVLET HASTANESİ",
+      "GAZİANTEP DR. ERSİN ARSLAN EĞİTİM VE ARAŞTIRMA HASTANESİ",
+      "GAZİANTEP İSLAHİYE DEVLET HASTANESİ",
+      "GAZİANTEP KARKAMIŞ ŞEHİT FUAT OĞUZCAN İLÇE DEVLET HASTANESİ",
+      "GAZİANTEP NİZİP AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "GAZİANTEP OĞUZELİ İLÇE DEVLET HASTANESİ",
+      "GAZİANTEP ŞAHİNBEY AĞIZ VE DİŞ SAĞLIĞI HASTANESİ",
+      "GAZİANTEP ŞEHİTKAMİL AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 16,
+    "DistanceToIstanbul": 847.3618851227578
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Balıkesir",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ BURHANİYE T TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "BALIKESİR AYVALIK DEVLET HASTANESİ",
+      "BALIKESİR BİGADİÇ DEVLET HASTANESİ",
+      "BALIKESİR BURHANİYE DEVLET HASTANESİ",
+      "BALIKESİR DEVLET HASTANESİ",
+      "BALIKESİR DURSUNBEY DEVLET HASTANESİ",
+      "BALIKESİR EDREMİT ALİ FAHRİ AKILLIOĞLU AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "BALIKESİR EDREMİT DEVLET HASTANESİ",
+      "BALIKESİR GÖNEN DEVLET HASTANESİ",
+      "BALIKESİR SAVAŞTEPE DEVLET HASTANESİ",
+      "BALIKESİR SINDIRGI DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 13,
+    "DistanceToIstanbul": 177.11705183106514
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Konya",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ KONYA EREĞLİ 2 NOLU YÜKSEK GÜVENLİKLİ KAPALI CEZA İNFAZ KURUMU",
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ KONYA EREĞLİ AÇIK CEZA İNFAZ KURUMU",
+      "KONYA AKŞEHİR AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "KONYA BEYHEKİM AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "KONYA ÇUMRA DEVLET HASTANESİ",
+      "KONYA DOĞANHİSAR DEVLET HASTANESİ",
+      "KONYA KADINHANI REFİK SAİME KOYUNCU DEVLET HASTANESİ",
+      "KONYA KARAPINAR DEVLET HASTANESİ",
+      "KONYA SARAYÖNÜ DEVLET HASTANESİ",
+      "KONYA SEYDİŞEHİR DEVLET HASTANESİ",
+      "KONYA YUNAK HACI İZZET BAYSAL DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 12,
+    "DistanceToIstanbul": 460.85964985685433
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Adıyaman",
+    "Hospitals": [
+      "ADIYAMAN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "ADIYAMAN BESNİ DEVLET HASTANESİ",
+      "ADIYAMAN GERGER İLÇE DEVLET HASTANESİ",
+      "ADIYAMAN GÖLBAŞI DEVLET HASTANESİ",
+      "ADIYAMAN KAHTA DEVLET HASTANESİ",
+      "ADIYAMAN KAHTA GÖÇERİ İLÇE DEVLET HASTANESİ",
+      "ADIYAMAN SİNCİK İLÇE DEVLET HASTANESİ",
+      "ADIYAMAN TUT İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 11,
+    "DistanceToIstanbul": 876.2413827952852
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Manisa",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ ALAŞEHİR M TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ MANİSA T TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ SALİHLİ T TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "MANİSA AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "MANİSA AKHİSAR MUSTAFA KİRAZOĞLU DEVLET HASTANESİ",
+      "MANİSA DEMİRCİ DEVLET HASTANESİ",
+      "MANİSA KULA DEVLET HASTANESİ",
+      "MANİSA SALİHLİ AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "MANİSA SOMA AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "MANİSA TURGUTLU AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 11,
+    "DistanceToIstanbul": 296.44270666336763
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Ağrı",
+    "Hospitals": [
+      "AĞRI AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "AĞRI EĞİTİM VE ARAŞTIRMA HASTANESİ",
+      "AĞRI PATNOS DEVLET HASTANESİ",
+      "AĞRI TUTAK İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 10,
+    "DistanceToIstanbul": 1199.6000913471403
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Adana",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ ADANA 1 NOLU T TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ ADANA 2 NOLU T TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ ADANA E TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "ADANA FEKE İLÇE DEVLET HASTANESİ",
+      "ADANA KARAİSALI DEVLET HASTANESİ",
+      "ADANA KOZAN DEVLET HASTANESİ",
+      "ADANA TUFANBEYLİ DEVLET HASTANESİ",
+      "ADANA YÜREĞİR KARŞIYAKA AĞIZ VE DİŞ SAĞLIĞI HASTANESİ"
+    ],
+    "NumOfDentists": 9,
+    "DistanceToIstanbul": 705.9843814182344
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Hatay",
+    "Hospitals": [
+      "HATAY AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "HATAY İSKENDERUN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "HATAY SAMANDAĞ DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 8,
+    "DistanceToIstanbul": 818.8278411216096
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Kütahya",
+    "Hospitals": [
+      "KÜTAHYA AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "KÜTAHYA DOMANİÇ İLÇE DEVLET HASTANESİ",
+      "KÜTAHYA EMET DR.FAZIL DOĞAN DEVLET HASTANESİ",
+      "KÜTAHYA EVLİYA ÇELEBİ EĞİTİM VE ARAŞTIRMA HASTANESİ",
+      "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ SAĞLIK KÜLTÜR VE SPOR DAİRE BAŞKANLIĞI (5. DERECE DİŞ TABİBİ )",
+      "KÜTAHYA TAVŞANLI AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 7,
+    "DistanceToIstanbul": 196.22345352215282
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Erzurum",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ DUMLU 1 NOLU YÜKSEK GÜVENLİKLİ KAPALI CEZA İNFAZ KURUMU",
+      "ERZURUM AŞKALE İLÇE DEVLET HASTANESİ",
+      "ERZURUM KARAÇOBAN İLÇE DEVLET HASTANESİ",
+      "ERZURUM KARAYAZI TÜRK ECZACILARI BİRLİĞİ İLÇE DEVLET HASTANESİ",
+      "ERZURUM PASİNLER İBRAHİM HAKKI DEVLET HASTANESİ",
+      "ERZURUM TEKMAN ŞEHİT PİYADE ÇAVUŞ MUHAMMET BİNİCİ DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 7,
+    "DistanceToIstanbul": 1046.495754530636
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Bolu",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ GEREDE L TİPİ KAPALI VE AÇIK CEZA İNFAZ KURUMU",
+      "BOLU GÖYNÜK ŞEHİT ZİYA SARPKAYA İLÇE DEVLET HASTANESİ",
+      "BOLU İZZET BAYSAL AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 7,
+    "DistanceToIstanbul": 224.16672602547595
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Batman",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ BATMAN M TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "BATMAN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 6,
+    "DistanceToIstanbul": 1099.1777577111243
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Diyarbakır",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ DİYARBAKIR 3 NOLU T TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "DİYARBAKIR ÇERMİK DEVLET HASTANESİ",
+      "DİYARBAKIR DAĞ KAPI DEVLET HASTANESİ",
+      "DİYARBAKIR DİCLE DEVLET HASTANESİ",
+      "DİYARBAKIR LİCE HALİS TOPRAK VAKFI DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 5,
+    "DistanceToIstanbul": 1024.5098679609443
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Kahramanmaraş",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ ELBİSTAN E TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ TÜRKOĞLU 2 NOLU L TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "KAHRAMANMARAŞ AFŞİN DEVLET HASTANESİ",
+      "KAHRAMANMARAŞ GÖKSUN DEVLET HASTANESİ",
+      "KAHRAMANMARAŞ NURHAK İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 5,
+    "DistanceToIstanbul": 782.9819406246525
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Edirne",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ EDİRNE KAPALI CEZA İNFAZ KURUMU",
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ EDİRNE L TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "EDİRNE AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "EDİRNE KEŞAN DEVLET HASTANESİ",
+      "EDİRNE SULTAN 1. MURAT DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 5,
+    "DistanceToIstanbul": 215.1498765867868
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Çorum",
+    "Hospitals": [
+      "ÇORUM AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "ÇORUM ALACA DEVLET HASTANESİ",
+      "ÇORUM ORTAKÖY İLÇE DEVLET HASTANESİ",
+      "ÇORUM OSMANCIK DEVLET HASTANESİ",
+      "ÇORUM SUNGURLU DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 5,
+    "DistanceToIstanbul": 505.8413800657565
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Iğdır",
+    "Hospitals": [
+      "IĞDIR AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "IĞDIR ARALIK İLÇE DEVLET HASTANESİ",
+      "IĞDIR TUZLUCA İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 4,
+    "DistanceToIstanbul": 1276.1179836530084
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Kastamonu",
+    "Hospitals": [
+      "KASTAMONU AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "KASTAMONU AZDAVAY İLÇE DEVLET HASTANESİ",
+      "KASTAMONU KÜRE İLÇE DEVLET HASTANESİ",
+      "KASTAMONU TAŞKÖPRÜ DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 4,
+    "DistanceToIstanbul": 404.2863757268251
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Çankırı",
+    "Hospitals": [
+      "ÇANKIRI AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 4,
+    "DistanceToIstanbul": 392.77427800050896
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "İzmir",
+    "Hospitals": [
+      "İZMİR ALİAĞA CEZA İNFAZ KURUMLARI KAMPÜS DEVLET HASTANESİ",
+      "İZMİR DİKİLİ DEVLET HASTANESİ",
+      "İZMİR KINIK DEVLET HASTANESİ",
+      "İZMİR SELÇUK DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 4,
+    "DistanceToIstanbul": 328.16535648942846
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Giresun",
+    "Hospitals": [
+      "GİRESUN ALUCRA İLÇE DEVLET HASTANESİ",
+      "GİRESUN BULANCAK DEVLET HASTANESİ",
+      "GİRESUN DERELİ İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 3,
+    "DistanceToIstanbul": 790.0705906489508
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Karabük",
+    "Hospitals": [
+      "KARABÜK AĞIZ VE DİŞ SAĞLIĞI EĞİTİM VE ARAŞTIRMA HASTANESİ"
+    ],
+    "NumOfDentists": 3,
+    "DistanceToIstanbul": 306.05558091992293
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Kayseri",
+    "Hospitals": [
+      "KAYSERİ DEVELİ HATİCE-MUAMMER KOCATÜRK DEVLET HASTANESİ",
+      "KAYSERİ İNCESU İLÇE DEVLET HASTANESİ",
+      "KAYSERİ YEŞİLHİSAR İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 3,
+    "DistanceToIstanbul": 609.5712908273516
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Muğla",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ BODRUM S TİPİ KAPALI VE AÇIK CEZA İNFAZ KURUMU",
+      "MUĞLA BODRUM DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 3,
+    "DistanceToIstanbul": 424.7351716155234
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Isparta",
+    "Hospitals": [
+      "ISPARTA AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "ISPARTA ŞEHİT YUNUS EMRE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 3,
+    "DistanceToIstanbul": 385.03197029365265
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Kocaeli",
+    "Hospitals": [
+      "KOCAELİ DARICA AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "KOCAELİ KANDIRA ECZ. KAZIM DİNÇ DEVLET HASTANESİ",
+      "KOCAELİ KARAMÜRSEL DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 3,
+    "DistanceToIstanbul": 77.843562544039
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Aydın",
+    "Hospitals": [
+      "AYDIN DİDİM DEVLET HASTANESİ",
+      "AYDIN KUŞADASI DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 2,
+    "DistanceToIstanbul": 363.50005189808684
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Bingöl",
+    "Hospitals": [
+      "BİNGÖL AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "BİNGÖL GENÇ DEVLET HASTANESİ",
+      "BİNGÖL KARLIOVA DEVLET HASTANESİ",
+      "BİNGÖL KİĞI İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 2,
+    "DistanceToIstanbul": 1026.1081211562023
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Bilecik",
+    "Hospitals": [
+      "BİLECİK AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "BİLECİK BOZÜYÜK AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 2,
+    "DistanceToIstanbul": 140.01269751207818
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Düzce",
+    "Hospitals": [
+      "DÜZCE AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "DÜZCE AKÇAKOCA DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 2,
+    "DistanceToIstanbul": 183.9861360330224
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Denizli",
+    "Hospitals": [
+      "ADALET BAKANLIĞI CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ DENİZLİ D TİPİ KAPALI CEZA İNFAZ KURUMU",
+      "DENİZLİ TAVAS DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 2,
+    "DistanceToIstanbul": 359.14906908893926
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Muş",
+    "Hospitals": [
+      "MUŞ AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 2,
+    "DistanceToIstanbul": 1111.448916264708
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Bartın",
+    "Hospitals": [
+      "BARTIN ŞEHİT CEM KANBUR AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 2,
+    "DistanceToIstanbul": 298.0078627175824
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Kırşehir",
+    "Hospitals": [
+      "KIRŞEHİR AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "KIRŞEHİR KAMAN DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 2,
+    "DistanceToIstanbul": 487.9597716702162
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Mersin",
+    "Hospitals": [
+      "MERSİN BOZYAZI DEVLET HASTANESİ",
+      "MERSİN GÜLNAR DEVLET HASTANESİ",
+      "MERSİN SİLİFKE AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 2,
+    "DistanceToIstanbul": 676.633720041647
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Aksaray",
+    "Hospitals": [
+      "AKSARAY AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 1,
+    "DistanceToIstanbul": 522.7563846519134
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Ardahan",
+    "Hospitals": [
+      "ARDAHAN GÖLE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1,
+    "DistanceToIstanbul": 1149.6732311492403
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Çanakkale",
+    "Hospitals": [
+      "ÇANAKKALE BİGA DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1,
+    "DistanceToIstanbul": 236.15810851606588
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Eskişehir",
+    "Hospitals": [
+      "ESKİŞEHİR ŞEHİR HASTANESİ"
+    ],
+    "NumOfDentists": 1,
+    "DistanceToIstanbul": 189.07880752039296
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Gümüşhane",
+    "Hospitals": [
+      "GÜMÜŞHANE ŞEHİT EBE KEVSER CEYLAN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 1,
+    "DistanceToIstanbul": 889.2195950631615
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Karaman",
+    "Hospitals": [
+      "KARAMAN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 1,
+    "DistanceToIstanbul": 561.9464530786997
+  },
+  {
+    "DoesItHaveFlight": false,
+    "CityName": "Kırklareli",
+    "Hospitals": [
+      "KIRKLARELİ BABAESKİ DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1,
+    "DistanceToIstanbul": 167.7165689774084
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Kars",
+    "Hospitals": [
+      "KARS DİGOR İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1,
+    "DistanceToIstanbul": 1188.0816708123803
+  },
+  {
+    "DoesItHaveFlight": true,
+    "CityName": "Mardin",
+    "Hospitals": [
+      "MARDİN MİDYAT DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1,
+    "DistanceToIstanbul": 1091.3782999804828
+  }
+]

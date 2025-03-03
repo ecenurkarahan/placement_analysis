@@ -1,0 +1,389 @@
+[
+  {
+    "CityName": "İstanbul",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI KÜÇÜKÇEKMECE AĞIZ VE DİŞ SAĞLIĞI HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI SANCAKTEPE AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "T.C. SAĞLIK BAKANLIĞI BAĞCILAR AĞIZ VE DİŞ SAĞLIĞI HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI İSTANBUL TOPÇULAR AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "T.C. SAĞLIK BAKANLIĞI EYÜPSULTAN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "T.C. SAĞLIK BAKANLIĞI ÜSKÜDAR AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "T.C. SAĞLIK BAKANLIĞI BÜYÜKÇEKMECE AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "T.C. SAĞLIK BAKANLIĞI SARIYER AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "T.C. SAĞLIK BAKANLIĞI ÇEKMEKÖY AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "ATAŞEHİR BELEDİYE BAŞKANLIĞI",
+      "T.C. SAĞLIK BAKANLIĞI İSTANBUL PENDİK AĞIZ VE DİŞ SAĞLIĞI HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI BAŞAKŞEHİR AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "T.C. SAĞLIK BAKANLIĞI GÜNGÖREN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 25
+  },
+  {
+    "CityName": "Hatay",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI HATAY AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "HATAY KIRIKHAN İLÇE SAĞLIK MÜDÜRLÜĞÜ",
+      "T.C. SAĞLIK BAKANLIĞI HASSA DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI KUMLU İLÇE DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI KIRIKHAN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "T.C. SAĞLIK BAKANLIĞI ARSUZ DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 8
+  },
+  {
+    "CityName": "Şanlıurfa",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI BOZOVA MEHMET-ENVER YILDIRIM DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI HALİLİYE AĞIZ VE DİŞ SAĞLIĞI HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI VİRANŞEHİR DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI AKÇAKALE DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI BİRECİK DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 8
+  },
+  {
+    "CityName": "Kastamonu",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI AZDAVAY İLÇE DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI ARAÇ İLÇE DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI TAŞKÖPRÜ DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI KÜRE İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 6
+  },
+  {
+    "CityName": "Konya",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI ÇUMRA ŞEHİT AHMET ELBUĞA İLÇE DEVLET HASTANESİ",
+      "KONYA KARAPINAR İLÇE SAĞLIK MÜDÜRLÜĞÜ",
+      "T.C. SAĞLIK BAKANLIĞI CİHANBEYLİ DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI KULU DEVLET HASTANESİ",
+      "KONYA KULU İLÇE SAĞLIK MÜDÜRLÜĞÜ",
+      "KONYA ÇUMRA İLÇE SAĞLIK MÜDÜRLÜĞÜ"
+    ],
+    "NumOfDentists": 6
+  },
+  {
+    "CityName": "Hakkari",
+    "Hospitals": [
+      "HAKKARİ YÜKSEKOVA İLÇE SAĞLIK MÜDÜRLÜĞÜ",
+      "T.C. SAĞLIK BAKANLIĞI YÜKSEKOVA DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI HAKKARİ AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "T.C. SAĞLIK BAKANLIĞI DERECİK DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 6
+  },
+  {
+    "CityName": "Kocaeli",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI KARAMÜRSEL DEVLET HASTANESİ",
+      "KOCAELİ DARICA İLÇE SAĞLIK MÜDÜRLÜĞÜ",
+      "T.C. SAĞLIK BAKANLIĞI DERİNCE AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "T.C. SAĞLIK BAKANLIĞI DARICA AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 4
+  },
+  {
+    "CityName": "Gaziantep",
+    "Hospitals": [
+      "GAZİANTEP NİZİP İLÇE SAĞLIK MÜDÜRLÜĞÜ",
+      "T.C. ADALET BAK. CEZA VE TEVK. GEN. MÜD. GAZİANTEP ŞEHİTKAMİL AÇIK CEZA İNFAZ KURUMU",
+      "GAZİANTEP BÜYÜKŞEHİR BELEDİYESİ İNAYET TOPÇUOĞLU HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI NURDAĞI İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 4
+  },
+  {
+    "CityName": "Çorum",
+    "Hospitals": [
+      "T.C. ADALET BAK. CEZA VE TEVK. GEN. MÜD. İSKİLİP AÇIK CEZA İNFAZ KURUMU",
+      "T.C. SAĞLIK BAKANLIĞI SUNGURLU DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI DODURGA İLÇE DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI İSKİLİP ATIF HOCA DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 4
+  },
+  {
+    "CityName": "Samsun",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI BAFRA AĞIZ VE DİŞ SAĞLIĞI HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI SAMSUN AYVACIK DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 4
+  },
+  {
+    "CityName": "Erzurum",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI HORASAN DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI OLTU DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI KÖPRÜKÖY İLÇE DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI HINIS ŞEHİT YAVUZ YÜREKSEVEN DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 4
+  },
+  {
+    "CityName": "Sivas",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI İMRANLI İLÇE DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI SUŞEHRİ DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 3
+  },
+  {
+    "CityName": "Ağrı",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI TAŞLIÇAY İLÇE DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI TUTAK İLÇE DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI PATNOS DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 3
+  },
+  {
+    "CityName": "Denizli",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI ACIPAYAM DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI TAVAS DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI SERİNHİSAR İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 3
+  },
+  {
+    "CityName": "Rize",
+    "Hospitals": [
+      "RİZE İL SAĞLIK MÜDÜRLÜĞÜ",
+      "T.C. SAĞLIK BAKANLIĞI İKİZDERE HAKKI-EMİNE EKŞİ İLÇE DEVLET HASTANESİ",
+      "RİZE ARDEŞEN İLÇE SAĞLIK MÜDÜRLÜĞÜ"
+    ],
+    "NumOfDentists": 3
+  },
+  {
+    "CityName": "Niğde",
+    "Hospitals": [
+      "NİĞDE BOR İLÇE SAĞLIK MÜDÜRLÜĞÜ",
+      "T.C. SAĞLIK BAKANLIĞI ALTUNHİSAR İLÇE DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI ÇİFTLİK İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 3
+  },
+  {
+    "CityName": "Kırşehir",
+    "Hospitals": [
+      "T.C. ADALET BAK. CEZA VE TEVK. GEN. MÜD. KIRŞEHİR YÜKSEK GÜVENLİKLİ KAPALI CEZA İNFAZ KURUMU",
+      "T.C. ADALET BAK. CEZA VE TEVK. GEN. MÜD. KIRŞEHİR 1 NOLU AÇIK CEZA İNFAZ KURUMU",
+      "T.C. SAĞLIK BAKANLIĞI KIRŞEHİR ŞEHİT POLİS HAYRETTİN YILMAZ AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 3
+  },
+  {
+    "CityName": "Van",
+    "Hospitals": [
+      "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ DİŞ HEKİMLİĞİ FAKÜLTESİ"
+    ],
+    "NumOfDentists": 2
+  },
+  {
+    "CityName": "Bingöl",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI BİNGÖL AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 2
+  },
+  {
+    "CityName": "Muş",
+    "Hospitals": [
+      "MUŞ İL SAĞLIK MÜDÜRLÜĞÜ",
+      "MUŞ BULANIK İLÇE SAĞLIK MÜDÜRLÜĞÜ"
+    ],
+    "NumOfDentists": 2
+  },
+  {
+    "CityName": "Zonguldak",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI ZONGULDAK AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "ZONGULDAK KİLİMLİ İLÇE SAĞLIK MÜDÜRLÜĞÜ"
+    ],
+    "NumOfDentists": 2
+  },
+  {
+    "CityName": "Isparta",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI SÜTÇÜLER İLÇE DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI ŞARKİKARAAĞAÇ DR. SADETTİN BİLGİÇ DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 2
+  },
+  {
+    "CityName": "Elazığ",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI KOVANCILAR DEVLET HASTANESİ",
+      "T.C. ADALET BAK. CEZA VE TEVK. GEN. MÜD. ELAZIĞ R TİPİ KAPALI CEZA İNFAZ KURUMU"
+    ],
+    "NumOfDentists": 2
+  },
+  {
+    "CityName": "Tokat",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI ERBAA DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI SULUSARAY İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 2
+  },
+  {
+    "CityName": "Amasya",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI TAŞOVA DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI AMASYA AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 2
+  },
+  {
+    "CityName": "Ordu",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI AKKUŞ DEVLET HASTANESİ",
+      "T.C. SAĞLIK BAKANLIĞI AYBASTI DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 2
+  },
+  {
+    "CityName": "Mersin",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI SİLİFKE AĞIZ VE DİŞ SAĞLIĞI MERKEZİ",
+      "T.C. ADALET BAK. CEZA VE TEVK. GEN. MÜD. TARSUS 3 NOLU T TİPİ KAPALI CEZA İNFAZ KURUMU"
+    ],
+    "NumOfDentists": 2
+  },
+  {
+    "CityName": "Şırnak",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI ŞIRNAK DT. NURULLAH KADIRHAN AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Kırıkkale",
+    "Hospitals": [
+      "T.C. ADALET BAK. CEZA VE TEVK. GEN. MÜD. DELİCE KAPALI CEZA İNFAZ KURUMU"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Bolu",
+    "Hospitals": [
+      "BOLU İL SAĞLIK MÜDÜRLÜĞÜ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Nevşehir",
+    "Hospitals": [
+      "NEVŞEHİR MERKEZ TOPLUM SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Ardahan",
+    "Hospitals": [
+      "ARDAHAN İL SAĞLIK MÜDÜRLÜĞÜ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Kayseri",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI DEVELİ DR. EKREM KARAKAYA DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Kırklareli",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI PINARHİSAR DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Manisa",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI SALİHLİ AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Sakarya",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI PAMUKOVA DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Adana",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI TUFANBEYLİ DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Tunceli",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI HOZAT İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Düzce",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI AKÇAKOCA DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Çanakkale",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI ÇANAKKALE YENİCE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Giresun",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI DERELİ İLÇE DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Mardin",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI KIZILTEPE AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Bayburt",
+    "Hospitals": [
+      "T.C. SAĞLIK BAKANLIĞI BAYBURT AĞIZ VE DİŞ SAĞLIĞI MERKEZİ"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Burdur",
+    "Hospitals": [
+      "T.C. ADALET BAK. CEZA VE TEVK. GEN. MÜD. BURDUR KAMPÜS AÇIK CEZA İNFAZ KURUMU",
+      "T.C. ADALET BAK. CEZA VE TEVK. GEN. MÜD. BURDUR YÜKSEK GÜVENLİKLİ KAPALI CEZA İNFAZ KURUMU"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Osmaniye",
+    "Hospitals": [
+      "T.C. ADALET BAK. CEZA VE TEVK. GEN. MÜD. TOPRAKKALE AÇIK CEZA İNFAZ KURUMU"
+    ],
+    "NumOfDentists": 1
+  },
+  {
+    "CityName": "Muğla",
+    "Hospitals": [
+      "T. C. SAĞLIK BAKANLIĞI SEYDİKEMER DEVLET HASTANESİ"
+    ],
+    "NumOfDentists": 1
+  }
+]
